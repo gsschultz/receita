@@ -87,7 +87,7 @@ h2{
 }
 
 .ingredientes li::marker{
-    color: #7a284e;
+    
     font-size: 12px;
 }
 
@@ -96,3 +96,7 @@ hr{
     margin-block: 32px;
 }
 
+.modo li::marker{
+    color: #7a284e;
+    font-weight: 700;
+}
